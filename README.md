@@ -1,4 +1,4 @@
-# Movie_Trailer_Project
+# FEND-Movie_Trailer_Project
 Udacity Nanodegree, Full Stack: Project 1
 
 -----------------------------
